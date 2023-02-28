@@ -1,0 +1,34 @@
+World 1 Summary
+bfs:
+Path cost: 87.0
+Nodes expanded: 2027
+
+dfs:
+Path cost: 842.0
+Nodes expanded: 1247
+
+gbfs:
+Path cost: 94.0
+Nodes expanded: 102
+
+astar:
+Path cost: 85.0
+Nodes expanded: 1776
+
+
+World 2 Summary
+bfs:
+Path cost: 98.0
+Nodes expanded: 1894
+
+dfs:
+Path cost: 915.0
+Nodes expanded: 1036
+
+gbfs:
+Path cost: 146.0
+Nodes expanded: 533
+
+astar:
+Path cost: 87.5
+Nodes expanded: 1057
