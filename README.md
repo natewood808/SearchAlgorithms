@@ -1,3 +1,4 @@
+#Search Algorithms Visualization
 The project depends on these modules:
 
 matplotlib.pyplot
